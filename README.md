@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Desenvolvedora Full Stack | UI e UX Expert | Cybersecurity✨
+Cientista da Computação
 <!--
 **lettciaszza/lettciaszza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
