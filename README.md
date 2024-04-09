@@ -64,7 +64,10 @@
   
 ![snake gif](https://github.com/lettciaszza/lettciaszza/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=lettciaszza&repo=lettciaszza&theme=react)](https://github.com/lettciaszza/lettciaszza)
+
+
+
 
 
 
