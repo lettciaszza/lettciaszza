@@ -1,20 +1,12 @@
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <br>
 <br>
 <br>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&size=35&center=true&vCenter=true&width=500&height=70&color=FF69B4&duration=4000&lines=Olá!+👋;+me+chamo+Letícia+Souza!;" />
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<p align="left" style="font-size: px;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&size=20&left=true&vCenter=true&width=500&height=60&color=FF69B4&duration=4000&lines=Olá!+👋;+me+chamo+Letícia+Souza!;" />
 </p>
 
-
-
-
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
@@ -68,11 +60,12 @@
   <a href="https://discord.gg/leticiasouza1285" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord logo">
 </a>
-
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
-
-
   </div>
+  
+![snake gif](https://github.com/lettciaszza/lettciaszza/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 
 
