@@ -9,10 +9,6 @@
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 <h3 align="left">Estatísticas do Github:</h3>
 <div align="center">
@@ -30,11 +26,9 @@
 <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="Assembly" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-x86.svg">
-<img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="JSON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg">
+
 
 
 
@@ -42,11 +36,7 @@
   <h3 align="left">Ferramentas que utilizo no meu dia a dia:</h3>
   <img align="center" alt="Leticia-Bootstrap" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" alt="Visual Studio Code logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- <img align="center" alt="MariaDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">
 <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="Kali Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg">
-<img align="center" alt="NetBeans" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg">
-</div>
 <img align="center" alt="WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
@@ -66,18 +56,6 @@
 </a>
   </div>
   
-![snake gif](https://github.com/lettciaszza/lettciaszza/blob/output/github-contribution-grid-snake.svg)
 
 
-<h5>Uma Cientista da Computação apaixonada por desafios.</h5>
-
-
-
-
-
-
-
-
-
-
-
+<h5>Uma Cientista da Computação apaixonada por desafios.</h5>
