@@ -1,6 +1,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="400px" width="400px" align="right">
-  <p align="left"> 
+  <p align="center"> 
    <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&size=20&left=true&vCenter=true&width=500&height=60&color=FF69B4&duration=4000&lines=Olá!+👋;+me+chamo+Letícia+Souza!;" />
 </p>
   
