@@ -1,11 +1,14 @@
+
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <br>
 <br>
 <br>
-<p align="left"> 
- Olá, eu sou a Letícia Souza<br>
-Código limpo, soluções eficazes.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&size=35&center=true&vCenter=true&width=500&height=70&color=FF69B4&duration=4000&lines=Olá!+👋;+me+chamo+Letícia+Souza!;" />
 </p>
+
+
 
 
 <br>
@@ -65,6 +68,8 @@ Código limpo, soluções eficazes.
   <a href="https://discord.gg/leticiasouza1285" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord logo">
 </a>
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
 
   </div>
