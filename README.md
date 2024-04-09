@@ -34,8 +34,10 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-0D1117?style=for-the-badge&logo=wordpress&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Miro](https://img.shields.io/badge/-Miro-0D1117?style=for-the-badge&logo=miro&labelColor=0D1117&textColor=0D1117)&nbsp;
-![GanttProject](https://img.shields.io/badge/-GanttProject-0D1117?style=for-the-badge&logo=ganttproject&labelColor=0D1117&textColor=0D1117)&nbsp;
+[![GanttProject](https://img.shields.io/badge/-GanttProject-0D1117?style=for-the-badge&logo=ganttproject&labelColor=0D1117&textColor=0D1117)](https://www.ganttproject.biz/)&nbsp;
 ![Star UML](https://img.shields.io/badge/-Star%20UML-0D1117?style=for-the-badge&logo=uml&labelColor=0D1117&textColor=0D1117)&nbsp;
+[![NetBeans IDE](https://img.shields.io/badge/-NetBeans%20IDE-0D1117?style=for-the-badge&logo=apache-netbeans-ide&labelColor=0D1117&textColor=0D1117)](https://netbeans.apache.org/)&nbsp;
+[![Git Bash](https://img.shields.io/badge/-Git%20Bash-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&textColor=0D1117)](https://git-scm.com/downloads)&nbsp;
 ##
 
 <div align="center">
