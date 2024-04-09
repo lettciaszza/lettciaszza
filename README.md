@@ -35,7 +35,7 @@
 
 
   
-  <h3 align="left">Ferramentas:</h3>
+  <h3 align="left">Ferramentas que utilizo no meu dia a dia:</h3>
   <img align="center" alt="Leticia-Bootstrap" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" alt="Visual Studio Code logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
  <img align="center" alt="MariaDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">
@@ -65,7 +65,7 @@
 ![snake gif](https://github.com/lettciaszza/lettciaszza/blob/output/github-contribution-grid-snake.svg)
 
 
-
+<h5>Uma Cientista da Computação apaixonada por desafios.</h5>
 
 
 
