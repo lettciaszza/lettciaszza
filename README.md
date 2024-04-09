@@ -64,7 +64,7 @@
   
 ![snake gif](https://github.com/lettciaszza/lettciaszza/blob/output/github-contribution-grid-snake.svg)
 
-
+</div>
 
 
 
