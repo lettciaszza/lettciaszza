@@ -25,7 +25,6 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Assembly](https://img.shields.io/badge/-Assembly-0D1117?style=for-the-badge&logo=assembly&labelColor=0D1117&textColor=0D1117)&nbsp;
-
 ![JSON](https://img.shields.io/badge/-JSON-0D1117?style=for-the-badge&logo=json&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
@@ -35,7 +34,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-0D1117?style=for-the-badge&logo=wordpress&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&textColor=0D1117)&nbsp;
-
+![Miro](https://img.shields.io/badge/-Miro-0D1117?style=for-the-badge&logo=miro&labelColor=0D1117&textColor=0D1117)&nbsp;
 
  
 ##
