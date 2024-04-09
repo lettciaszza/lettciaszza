@@ -1,11 +1,10 @@
-<br>
-<br>
-<br>
-<div style="display: flex; align-items: center;">
+
+<div style="display: flex; align-items: left;">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-  <p align="center" style="font-size: px;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&size=20&left=true&vCenter=true&width=500&height=60&color=FF69B4&duration=4000&lines=Olá!+👋;+me+chamo+Letícia+Souza!;" />
-  </p>
+  <p align="left"> 
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&size=20&left=true&vCenter=true&width=500&height=60&color=FF69B4&duration=4000&lines=Olá!+👋;+me+chamo+Letícia+Souza!;" />
+</p>
+  
 </div>
 
 
@@ -55,6 +54,9 @@
 </a>
   <a href="https://discord.gg/leticiasouza1285" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord logo">
+</a>
+    <a href="https://www.figma.com/files/team/1359511591150396369" target="_blank">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </a>
   </div>
   
