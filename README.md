@@ -35,7 +35,7 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-0D1117?style=for-the-badge&logo=wordpress&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Miro](https://img.shields.io/badge/-Miro-0D1117?style=for-the-badge&logo=miro&labelColor=0D1117&textColor=0D1117)&nbsp;
-![GanttProject](https://img.shields.io/badge/-GanttProject-0D1117?style=for-the-badge&logo=ganttproject&labelColor=0D1117&textColor=0D1117)
+![GanttProject](https://img.shields.io/badge/-GanttProject-0D1117?style=for-the-badge&logo=ganttproject&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 ##
 
