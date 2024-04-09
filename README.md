@@ -11,6 +11,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <h3 align="left">Estatísticas do Github:</h3>
 <div align="center">
