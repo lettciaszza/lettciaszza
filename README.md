@@ -52,7 +52,7 @@
   
 </div>
 
-<h5 align="center">Uma Cientista da Computação apaixonada por desafios.</h5>
+<h5 align="center">Uma Desenvolvedora apaixonada por desafios.</h5>
 
 
 
